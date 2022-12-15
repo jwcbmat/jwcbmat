@@ -1,3 +1,9 @@
+<p><pre align="center">
+<strong>Johnathan Bruns -</strong> <a href="https://linkedin.com/in/johnathan-bruns/" target="_blank">Linkedin</a> / <a href="https://www.https://www.instagram.com/jwcbphy/" target="_blank">Instagram</a> /</pre></p>
+
+### heyy
+Before venturing into the world of computing, I studied Physics and Mathematics.
+Since I started programming with JavaScript, it has become my favorite language!
 
 ### i like this
 &nbsp;
