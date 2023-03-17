@@ -2,7 +2,7 @@
 <strong>Johnathan Bruns -</strong> <a href="https://linkedin.com/in/johnathan-bruns/" target="_blank">Linkedin</a> / <a href="https://www.instagram.com/jwcbphy/" target="_blank">Instagram</a></pre></p>
 
 ### Hey
-Before diving deep into the world of computing, I was solving calculus problems and analyzing statistics like a boss! But then I discovered JavaScript and it was love at first code. Now, I'm thrilled to apply my passion for math and programming to create amazing projects!
+Technology enthusiast and data lover. My focus is on computing, but I have always been fascinated by statistical mathematics. With over 2 years of experience in challenging projects, I have honed my skills in programming and data analysis. Currently, studying statistics to contribute even more to technology projects
 
 ### I'm currently interested in
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
