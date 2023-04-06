@@ -1,6 +1,3 @@
-<p><pre align="center">
-<strong>Johnathan Bruns -</strong> <a href="https://linkedin.com/in/johnathan-bruns/" target="_blank">Linkedin</a> / <a href="https://www.instagram.com/jwcbphy/" target="_blank">Instagram</a></pre></p>
-
 ### Hey
 Technology enthusiast and data lover. My focus is on computing, but I have always been fascinated by statistical mathematics. With over 2 years of experience in challenging projects, I have honed my skills in programming and data analysis. Currently, studying statistics to contribute even more to technology projects.
 
