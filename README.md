@@ -39,7 +39,6 @@ Technology enthusiast and data lover. My focus is on computing, but I have alway
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
 ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=fff)
 ![styled-components](https://img.shields.io/badge/-styled--components-db7093?style=for-the-badge&logo=styled-components&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
 ![VueJS](https://img.shields.io/badge/-Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
